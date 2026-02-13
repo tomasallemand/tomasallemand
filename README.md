@@ -22,8 +22,8 @@ The focus is on clarity, robustness, and decision relevance, rather than on show
 
 ## Areas of work
 My work typically covers:
-- data analysis and data modeling (SQL, Python)
 - exploratory and descriptive analysis (distributions, trends, outliers)
+- data analysis and data modeling (SQL, Python)
 - statistical validation and hypothesis testing when relevant
 - multivariate analysis and correlation analysis
 - data validation and quality checks

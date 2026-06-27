@@ -1,4 +1,4 @@
-# Tomás Allemand — Data Analytics & Public Policy
+# Tomás Allemand - Data Analytics & Public Policy
 
 I work as a data analyst focused on building practical solutions for decision-making, mainly in public sector environments.
 
